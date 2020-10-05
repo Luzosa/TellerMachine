@@ -1,0 +1,10 @@
+C:\Users\lion0005\source\repos\AutomatedTellerMachine\.vs\AutomatedTellerMachine\v16\lut\0\b\AutomatedTellerMachine.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\lion0005\source\repos\AutomatedTellerMachine\.vs\AutomatedTellerMachine\v16\lut\0\b\AutomatedTellerMachine.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\lion0005\source\repos\AutomatedTellerMachine\.vs\AutomatedTellerMachine\v16\lut\0\b\AutomatedTellerMachine.Tests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\lion0005\source\repos\AutomatedTellerMachine\.vs\AutomatedTellerMachine\v16\lut\0\b\AutomatedTellerMachine.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\lion0005\source\repos\AutomatedTellerMachine\.vs\AutomatedTellerMachine\v16\lut\0\b\AutomatedTellerMachine.Tests\bin\Debug\xunit.runner.json
+C:\Users\lion0005\source\repos\AutomatedTellerMachine\.vs\AutomatedTellerMachine\v16\lut\0\b\AutomatedTellerMachine.Tests\bin\Debug\AutomatedTellerMachine.Tests.dll
+C:\Users\lion0005\source\repos\AutomatedTellerMachine\.vs\AutomatedTellerMachine\v16\lut\0\i\AutomatedTellerMachine.Tests\Debug\AutomatedTellerMachine.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lion0005\source\repos\AutomatedTellerMachine\.vs\AutomatedTellerMachine\v16\lut\0\i\AutomatedTellerMachine.Tests\Debug\AutomatedTellerMachine.Tests.csproj.CopyComplete
+C:\Users\lion0005\source\repos\AutomatedTellerMachine\.vs\AutomatedTellerMachine\v16\lut\0\i\AutomatedTellerMachine.Tests\Debug\AutomatedTellerMachine.Tests.dll
+C:\Users\lion0005\source\repos\AutomatedTellerMachine\.vs\AutomatedTellerMachine\v16\lut\0\i\AutomatedTellerMachine.Tests\Debug\AutomatedTellerMachine.Tests.csprojAssemblyReference.cache
